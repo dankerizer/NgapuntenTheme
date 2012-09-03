@@ -37,7 +37,7 @@ if (is_single()){
 <a href="/dmca/">Contact</a> &minus;
 <a href="/Sitemap/">Sitemap</a>
 </div><br/>
-<span class=r">Wordpress theme By <a href="http://nganggur.org" title="nganggur">Nganggur.org</a></span>
+<span class=r">Wordpress theme By <a href="http://www.dankerizer.com" title="dankerizer">dankerizer.com</a></span>
 </div>
 </div>
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
